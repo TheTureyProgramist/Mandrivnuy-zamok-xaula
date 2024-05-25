@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(0, 255, 255, 0.329);
+    padding-bottom: 100px;
+    text-shadow: #ff8e8e 1px 0 0px, #ff6161 0 1px 0px, #ff7f7f -1px 0 0px, #ff8787 0 -1px 0px;
+}
+
+h1,h2,h3 {
+    color: gold;
+}
+
+p {
+    font-size: 23px;
+    background-color: forestgreen;
+}
+
+.set {
+    display: flex;
+    gap: 15px;
+}
